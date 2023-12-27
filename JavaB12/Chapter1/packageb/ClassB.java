@@ -1,4 +1,4 @@
-package packageb;
+package JavaB12.Chapter1.packageb;
 import packagea.ClassA;
 public class ClassB {
     public static void main(String[] args) {

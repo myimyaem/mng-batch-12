@@ -1,4 +1,4 @@
-package Chapter1;
+package JavaB12.Chapter1;
 import java.util.Random;
 
 public class Main{

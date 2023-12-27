@@ -1,3 +1,4 @@
+package JavaB12.Chapter1;
 
 public class Chick {
     int age;
