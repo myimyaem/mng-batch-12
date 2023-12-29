@@ -8,6 +8,6 @@ public class Task115 {
         System.out.println("Enter a word");
         String string1 = input.nextLine();
         StringBuilder sb = new StringBuilder(string1);
-        System.out.println(sb.toString());
+        // System.out.println(sb.toString());
     }
 }
