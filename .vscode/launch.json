@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ConstructorL",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter4.ConstructorL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Chick",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter1.Chick",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter1.Main",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "OrderOfDeclaration",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter1.OrderOfDeclaration",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Primitives",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter1.Primitives",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceType",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter1.ReferenceType",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "ScopeVar",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter1.ScopeVar",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "ClassB",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter1.packageb.ClassB",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Conditional",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter2.Conditional",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Looping",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter2.Looping",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter2.Operators",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListL",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter3.ArrayListL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "ArraysL",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter3.ArraysL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "LDates",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter3.LDates",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderL",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter3.StringBuilderL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "StringL",
+            "request": "launch",
+            "mainClass": "JavaB12.Chapter3.StringL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "MethodL",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter4.MethodL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "MethodL2",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter4.MethodL2",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "DefaultAccessModifierSample",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter5.DefaultAccessModifierSample",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Root",
+            "request": "launch",
+            "mainClass": "Root",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Task115",
+            "request": "launch",
+            "mainClass": "Task.Task115",
+            "projectName": "mng-batch-12_9af9d77d"
+        }
+    ]
+}
