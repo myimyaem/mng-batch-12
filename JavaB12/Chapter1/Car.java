@@ -7,7 +7,7 @@ package JavaB12.Chapter1;
  * asdasd
  * asdasd
  */
-public class Car {
+public class Car { // public class Car extend Object
     // this is a car properties  (Single Line comment )
     String name;
     int NumberOfDoors;
