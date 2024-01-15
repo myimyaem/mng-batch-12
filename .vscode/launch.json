@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter5.Dog",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "LambdaL",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter4.LambdaL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Task116",
+            "request": "launch",
+            "mainClass": "Task.Task116",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "EncapsulationL",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter4.EncapsulationL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
             "name": "ConstructorL",
             "request": "launch",
             "mainClass": "JavaB12.chapter4.ConstructorL",
