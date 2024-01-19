@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionL",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter6.ExceptionL",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "ZooKeeper",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter5.parent.ZooKeeper",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Peacock",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter5.Peacock",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Capybara",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter5.Capybara",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter5.Main3",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Mouse",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter5.parent.Mouse",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorL2",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter5.ConstructorL2",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
             "name": "Dog",
             "request": "launch",
             "mainClass": "JavaB12.chapter5.Dog",
