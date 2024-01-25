@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task11_11",
+            "request": "launch",
+            "mainClass": "Task.Task11_11",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "Task11_10",
+            "request": "launch",
+            "mainClass": "Task.Task11_10",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchFinal",
+            "request": "launch",
+            "mainClass": "JavaB12.chapter6.TryCatchFinal",
+            "projectName": "mng-batch-12_9af9d77d"
+        },
+        {
+            "type": "java",
             "name": "ExceptionL",
             "request": "launch",
             "mainClass": "JavaB12.chapter6.ExceptionL",

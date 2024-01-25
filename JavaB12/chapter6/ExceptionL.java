@@ -1,7 +1,7 @@
  package JavaB12.chapter6;
 
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
+
 
 public class ExceptionL  {
     public static void main(String[] args) {
@@ -28,6 +28,10 @@ GAME:        while(!win){
                 System.out.println(e.getMessage());
                 continue GAME;
             }
+            // catch(InputMismatchException e ){
+            //     System.out.println("You entered a String, try again");
+                
+            // }
             finally{
                 System.out.println("Thank you for playing");
             }
@@ -38,4 +42,10 @@ GAME:        while(!win){
     }
     
 }
-
+class TryCatchFinal{
+    public static void main(String[] args) {
+        try{}
+        catch(Exception e){}
+        finally{}
+    }
+}
